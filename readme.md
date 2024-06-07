@@ -33,3 +33,4 @@ Feito com ChatGPT e modelo de DALL·E
 > Faca um call to action para minhas redes sociais 
 > Coloque 3 hashtags que facam sentido
 # Criando-Artigos-T-cnicos
+# Criando-Artigos-T-cnicos
